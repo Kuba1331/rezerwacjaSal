@@ -1,0 +1,15 @@
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/obj/Debug/net7.0/asdsadsads.csproj.AssemblyReference.cache
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/obj/Debug/net7.0/asdsadsads.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/obj/Debug/net7.0/asdsadsads.AssemblyInfoInputs.cache
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/obj/Debug/net7.0/asdsadsads.AssemblyInfo.cs
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/obj/Debug/net7.0/asdsadsads.csproj.CoreCompileInputs.cache
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/bin/Debug/net7.0/asdsadsads
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/bin/Debug/net7.0/asdsadsads.deps.json
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/bin/Debug/net7.0/asdsadsads.runtimeconfig.json
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/bin/Debug/net7.0/asdsadsads.dll
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/bin/Debug/net7.0/asdsadsads.pdb
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/obj/Debug/net7.0/asdsadsads.dll
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/obj/Debug/net7.0/refint/asdsadsads.dll
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/obj/Debug/net7.0/asdsadsads.pdb
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/obj/Debug/net7.0/asdsadsads.genruntimeconfig.cache
+/Users/kubasmuga/Projects/asdsadsads/asdsadsads/obj/Debug/net7.0/ref/asdsadsads.dll
